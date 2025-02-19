@@ -10,10 +10,10 @@ config_version=5
 
 [application]
 
-config/name="PonC"
+config/name="Nuevo Proyecto de Juego"
 config/features=PackedStringArray("4.3", "Forward Plus")
 config/icon="res://icon.svg"
 
 [dotnet]
 
-project/assembly_name="PonC"
+project/assembly_name="Nuevo Proyecto de Juego"
